@@ -1,0 +1,5 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+7,Craft,2002,1,1,32.25,-76.75,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,SPCY,JURO,SPPA,,,,,,,,,,,,,,,0.04108,OCg_cc,30,,C,,,,,,,,,,
+7,Craft,2002,1,1,32.25,-76.75,marsh,,temperate_warm,,,,,herb,,R,,,,,,NA,NA,NA,NA,NA,,,SPCY,JURO,SPPA,,,,,,,,,,,,,,,0.007464,OCg_cc,30,,C,,,,,,,,,,
+7,Craft,2002,1,1,32.25,-76.75,marsh,,temperate_warm,,,,,herb,,R,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,118,gC_m2,,,,,,
+7,Craft,2002,2,1,32.25,-76.75,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,125,gC_m2,,,,,,

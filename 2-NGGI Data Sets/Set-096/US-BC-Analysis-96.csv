@@ -1,0 +1,8 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,AMCA2,,,,,,940,g_m2,1547,g_m2,560,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,SPAL,,,,,,943,g_m2,3500,g_m2,6353,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,PHAU,,,,,,1850,g_m2,1872,g_m2,3763.5,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,POLYG4,LEERS,,,,,1425,g_m2,,g_m2,507,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,PONTE,PELTA,,,,,686,g_m2,888,g_m2,2643,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,TYPHA,,,,,,1215,g_m2,1420,g_m2,3212,g_m2,,,1,,,,,,,,,,,,,,,,,
+96,Whigham,1978,1,1,38,-75.5,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,ZIAQ,,,,,,1218,g_m2,1578,g_m2,721,g_m2,,,1,,,,,,,,,,,,,,,,,

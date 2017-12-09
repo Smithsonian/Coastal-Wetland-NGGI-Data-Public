@@ -1,0 +1,9 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,0.1,,,,0.24,,,,,,,,,,,,,,0.03072,OCg_cc,,,C,,,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,1.4,,,,0.32,,,,,,,,,,,,,,0.0432,OCg_cc,,,C,,,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,3.1,,,,0.39,,,,,,,,,,,,,,0.0195,OCg_cc,,,C,,,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_marsh,,subtropical,oligo,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,3.5,,,,0.41,,,,,,,,,,,,,,0.02419,OCg_cc,,,C,,,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,0.1,,,,0.27,,,,,,,,,,,,,,0.0459,OCg_cc,,,C,61,gC_m2,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,1.4,,,,0.43,,,,,,,,,,,,,,0.05719,OCg_cc,,,C,56,gC_m2,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_forest,,subtropical,,,,,tree,,N,,,,,,NA,NA,NA,NA,NA,,3.1,,,,0.26,,,,,,,,,,,,,,0.0494,OCg_cc,,,C,65,gC_m2,,,,,,,,
+30,Noe,2016,1,1,32.17,-81.08,tidal_fresh_marsh,,subtropical,oligo,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,3.5,,,,0.25,,,,,,,,,,,,,,0.025,OCg_cc,,,C,21,gC_m2,,,,,,,,

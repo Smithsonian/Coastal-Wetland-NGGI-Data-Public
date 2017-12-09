@@ -1,0 +1,8 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+102,Duarte,1999,1,1,32.67,-117.2,seagrass,,mediterranean,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,PHTO,,,,,,586.4,g_m2,5183,g_m2,485.9,g_m2,4124.5,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,27.5,-82.6,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,519,g_m2,1825,g_m2,582.5,g_m2,657,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,27.5,-82.6,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,HAJO,,,,,,43,g_m2,,g_m2,53.5,g_m2,,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,30,-88,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,HADE5,,,,,,77.5,g_m2,,g_m2,66,g_m2,,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,30,-88,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,HAWR,,,,,,253.5,g_m2,2701,g_m2,193.3,g_m2,317.55,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,21.5,-157.6,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,HAHA3,,,,,,104,g_m2,2591.5,g_m2,,g_m2,,g_m2,1,,,,,,,,,,,,,,,,,
+102,Duarte,1999,1,1,37.7,-76.1,seagrass,,temperate_warm,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,ZOMA,,,,,,298.4,g_m2,1898,g_m2,149.7,g_m2,620.5,g_m2,1,,,,,,,,,,,,,,,,,

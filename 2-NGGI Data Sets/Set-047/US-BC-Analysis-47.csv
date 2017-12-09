@@ -1,0 +1,9 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+47,Bryant,1998,1,1,29.7,-92.7,marsh,,subtropical,,,,,,,M,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.1115587814,OCg_cc,50,,C,,,323.52046606,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.5,-91.9,marsh,,subtropical,,,,,,,M,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.2176533422,OCg_cc,50,,C,,,1958.8800798,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.5,-91.9,marsh,,subtropical,,,,,,,M,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.1232794048,OCg_cc,50,,C,,,357.51027392,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.7,-92.7,marsh,,subtropical,,,,,,,M,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.128225,OCg_cc,50,,C,,,371.8525,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.6,-92.7,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.11495552,OCg_cc,50,,C,,,804.68864,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.6,-92.7,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.136385033,OCg_cc,50,,C,,,804.6716947,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.9,-93.5,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.0998929536,OCg_cc,50,,C,,,479.48617728,gC_m2,,,,,,
+47,Bryant,1998,1,1,29.9,-93.5,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.124029496,OCg_cc,50,,C,,,682.162228,gC_m2,,,,,,

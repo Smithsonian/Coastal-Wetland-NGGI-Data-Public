@@ -1,0 +1,9 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,87.25,g_m2,,,498.57142857,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,79.39,g_m2,,,317.56,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,88.74,g_m2,,,443.7,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,213.55,g_m2,,,1067.75,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,16.74,g_m2,,,83.7,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,32.5,g_m2,,,46.428571429,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,22.74,g_m2,,,113.7,g_m2,,,1,,,,,,,,,,,,,,,,,
+101,Dixon,1995,3,1,27.35,-82.45,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,17,g_m2,,,42.5,g_m2,,,1,,,,,,,,,,,,,,,,,

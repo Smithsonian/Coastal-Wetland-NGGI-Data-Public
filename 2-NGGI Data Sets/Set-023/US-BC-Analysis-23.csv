@@ -1,0 +1,10 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+23,Loomis,2010,1,1,32.03,-81.13,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,12,SCTA2,SCAM6,BORO5,,,,,,,,,,,,,,,0.03213,OCg_cc,60,,C,,,143,gC_m2,,,,,,
+23,Loomis,2010,1,1,31.34,-82.37,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,0.1,ZIMI,,,,,,,,,,,,,,,,,0.026634,OCg_cc,60,,C,,,107,gC_m2,,,,,,
+23,Loomis,2010,1,1,30.98,-81.46,tidal_fresh_marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,7,ZIMI,,,,,,,,,,,,,,,,,0.025144,OCg_cc,60,,C,,,122,gC_m2,,,,,,
+23,Loomis,2010,1,1,32.03,-81.13,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,23,SPCY,,,,,,,,,,,,,,,,,0.019504,OCg_cc,60,,C,,,53,gC_m2,,,,,,
+23,Loomis,2010,1,1,31.34,-82.37,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,4.5,SPCY,JURO,,,,,,,,,,,,,,,,0.02845,OCg_cc,60,,C,,,146,gC_m2,,,,,,
+23,Loomis,2010,1,1,30.98,-81.46,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,24,SPCY,JURO,,,,,,,,,,,,,,,,0.023275,OCg_cc,60,,C,,,80,gC_m2,,,,,,
+23,Loomis,2010,1,1,32.03,-81.13,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,29,SPAL,,,,,,,,,,,,,,,,,0.02257,OCg_cc,60,,C,,,48,gC_m2,,,,,,
+23,Loomis,2010,1,1,31.34,-82.37,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,17,SPAL,,,,,,,,,,,,,,,,,0.020054,OCg_cc,60,,C,,,27,gC_m2,,,,,,
+23,Loomis,2010,1,1,30.98,-81.46,marsh,,temperate_warm,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,31,SPAL,,,,,,,,,,,,,,,,,0.02271,OCg_cc,60,,C,,,45,gC_m2,,,,,,

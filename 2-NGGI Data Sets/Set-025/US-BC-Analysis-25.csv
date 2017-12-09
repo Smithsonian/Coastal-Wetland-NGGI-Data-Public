@@ -1,0 +1,8 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,2500,gC_m2,30,,C,50,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,D,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,2300,gC_m2,30,,C,47,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,6300,gC_m2,30,,C,127,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,D,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,3700,gC_m2,30,,C,74,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,8100,gC_m2,30,,C,162,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,D,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,6200,gC_m2,30,,C,126,gC_m2,,,,,,,,
+25,Marchio,2016,1,1,26.9,-81.48,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,1000,gC_m2,30,,C,21,gC_m2,,,,,,,,

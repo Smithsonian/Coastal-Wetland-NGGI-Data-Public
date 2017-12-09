@@ -1,0 +1,13 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.021862238786,OCg_cc,50,,C,142.1,gC_m2,121.5,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.023028953919,OCg_cc,50,,C,133.3,gC_m2,105,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.028593067257,OCg_cc,50,,C,172.8,gC_m2,149.9,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.024191832572,OCg_cc,50,,C,81.4,gC_m2,87.9,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.023485651934,OCg_cc,50,,C,99.2,gC_m2,98.6,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.027397349754,OCg_cc,50,,C,89,gC_m2,106.8,gC_m2,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.01405051651,OCg_cc,50,,C,,,,,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.013440176605,OCg_cc,50,,C,,,,,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.016406312059,OCg_cc,50,,C,,,,,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.013813579554,OCg_cc,50,,C,,,,,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.024195924095,OCg_cc,50,,C,,,,,,,,,,
+42,Callaway,2012,1,1,38,-122,marsh,,mediterranean,,,,,herb,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.016975979668,OCg_cc,50,,C,,,,,,,,,,

@@ -1,0 +1,9 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,R,,hydrological restriction,,,,NA,NA,NA,NA,NA,fresh water,<1,Eleocharis sp.,PAHE2,,,,,,,,,,,,,,,,0.045,OCg_cc,50,,R,,,477,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,fresh water,<1,Eleocharis sp.,PAHE2,,,,,,,,,,,,,,,,0.047,OCg_cc,50,,R,,,306,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,R,,hydrological restriction,,,,NA,NA,NA,NA,NA,intermediate,10_15,SPPA,,,,,,,,,,,,,,,,,0.059,OCg_cc,50,,R,,,797,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,intermediate,10_15,SPPA,,,,,,,,,,,,,,,,,0.042,OCg_cc,50,,R,,,269,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,R,,hydrological restriction,,,,NA,NA,NA,NA,NA,brakish,5_10,SPPA,DISP,,,,,,,,,,,,,,,,0.059,OCg_cc,50,,R,,,826,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,brakish,5_10,SPPA,DISP,,,,,,,,,,,,,,,,0.059,OCg_cc,50,,R,,,348,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,R,,"behind levees left from canal construction, hydrological restriction",,,,NA,NA,NA,NA,NA,saline,,JURO,DISP,,,,,,,,,,,,,,,,0.05,OCg_cc,50,,R,,,675,gC_m2,,,,,,
+18,Hatton,1983,1,1,29.13,-90,marsh,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,saline,,JURO,DISP,,,,,,,,,,,,,,,,0.058,OCg_cc,50,,R,,,435,gC_m2,,,,,,

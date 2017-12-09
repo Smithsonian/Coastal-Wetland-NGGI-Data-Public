@@ -1,0 +1,6 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+44,Herbert,2009,1,1,25,-81,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,62.8966,g_m2,,,86.5657,g_m2,,,1,,,,,,,,,,,,,,,,,
+44,Herbert,2009,1,1,25,-81,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,34.279,g_m2,,,72.393,g_m2,,,1,,,,,,,,,,,,,,,,,
+44,Herbert,2009,1,1,25,-81,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,42.1668,g_m2,,,123.8688,g_m2,,,1,,,,,,,,,,,,,,,,,
+44,Herbert,2009,1,1,25,-81,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,44.2575,g_m2,,,89.88,g_m2,,,1,,,,,,,,,,,,,,,,,
+44,Herbert,2009,1,1,25,-81,seagrass,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,THTE6,,,,,,65.424,g_m2,,,91.556,g_m2,,,1,,,,,,,,,,,,,,,,,

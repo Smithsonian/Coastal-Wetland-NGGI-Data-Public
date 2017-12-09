@@ -1,0 +1,5 @@
+PublicationID,First_Author,Year,Publication_Type,Source,Latitude,Longitude,Ecosystem,CCAP_Class,Climate_Zone,Salinity_Regime,Elevation,Tide_Range,MHW,Stature,Soil_Order,Management,Disturbance,Activity,Activity_Time,Current_Land_Use,Previous_Land_Use,CH4,N2O,NEE,DOC,CO2,Salinity_in_Soil,Salinity_in_Water,Species1,Species2,Species3,BD,LOI,C,AGB,AGBunits,delAGB,delAGBunits,BGB,BGBunits,delBGB,delBGBunits,Unit_Source,Deadwood,Litter,SOC1,SOC1units,SOC1depth,Roots,CalculationMethod,delSOC1Pb,delSOC1units,delSOC2Cs,delSOC2units,delSOC3Marker,delSOC3units,delSOC4SET,delSOC4units,delSOC5RadioC,delSOC5units
+75,Lynch,1989,1,1,26,-81.7,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.053,OCg_cc,24,,R,90,gC_m2,,,,,,,,
+75,Lynch,1989,1,1,26,-81.7,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.049,OCg_cc,22,,R,69,gC_m2,,,,,,,,
+75,Lynch,1989,1,1,26,-81.7,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.054,OCg_cc,18,,R,86,gC_m2,,,,,,,,
+75,Lynch,1989,1,1,26,-81.7,mangrove,,subtropical,,,,,,,N,,,,,,NA,NA,NA,NA,NA,,,,,,,,,,,,,,,,,,,,0.058,OCg_cc,16,,R,99,gC_m2,,,,,,,,
